@@ -657,9 +657,10 @@
   version "9.6.6"
   resolved "https://registry.npmjs.org/@types/node/-/node-9.6.6.tgz#439b91f9caf3983cad2eef1e11f6bedcbf9431d2"
 
-"@types/raphael@^2.1.30":
-  version "2.1.30"
-  resolved "https://registry.npmjs.org/@types/raphael/-/raphael-2.1.30.tgz#76cbea4a556ba25eb1c6d7fa5e71ac48e72f81cf"
+"@types/raphael@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@types/raphael/-/raphael-2.3.1.tgz#5e8e69c35f2c8a89a6e5cf0f9ff87004bbc6f3bb"
+  integrity sha512-zsocvfGMgQT9kVwGYthhWifd5iUw3nhzXZyO7+V9+B69kNYi6x0FN9W2k9dLJecXsk4HR6aKVmaSQjkWGo3N9w==
 
 "@types/strip-bom@^3.0.0":
   version "3.0.0"
