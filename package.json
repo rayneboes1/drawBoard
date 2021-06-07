@@ -16,7 +16,7 @@
   "author": "Jayden <jxdjayden@gmail.com>",
   "dependencies": {
     "@types/raphael": "^2.1.30",
-    "raphael": "^2.2.7",
+    "raphael": "^2.3.0",
     "vue": "^2.5.13",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^6.0.0"
