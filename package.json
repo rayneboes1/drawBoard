@@ -15,7 +15,7 @@
   "license": "MIT",
   "author": "Jayden <jxdjayden@gmail.com>",
   "dependencies": {
-    "@types/raphael": "^2.1.30",
+    "@types/raphael": "^2.3.1",
     "raphael": "^2.2.7",
     "vue": "^2.5.13",
     "vue-class-component": "^6.0.0",
