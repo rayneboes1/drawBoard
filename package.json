@@ -18,7 +18,7 @@
     "@types/raphael": "^2.1.30",
     "raphael": "^2.2.7",
     "vue": "^2.5.13",
-    "vue-class-component": "^6.0.0",
+    "vue-class-component": "^6.3.2",
     "vue-property-decorator": "^6.0.0"
   },
   "files": [
